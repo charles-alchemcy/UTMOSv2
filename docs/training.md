@@ -9,7 +9,6 @@
 </h1>
 
 To train UTMOSv2 following the methods described in the paper or used in the competition, please refer to [this document](reproduction.md).
-
 <h2 align="center">
   <div> 📩 Install Training Dependencies 📩 </div>
   <a href="https://github.com/sarulab-speech/UTMOSv2/blob/main/docs/training.md#---install-training-dependencies---------">
