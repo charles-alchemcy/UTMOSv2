@@ -6,7 +6,6 @@ import pytest
 
 from utmosv2._core.create import create_model
 
-
 @pytest.mark.parametrize(
     "pretrained",
     [
